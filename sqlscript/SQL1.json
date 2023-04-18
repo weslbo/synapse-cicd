@@ -2,7 +2,7 @@
 	"name": "SQL1",
 	"properties": {
 		"content": {
-			"query": "SELECT 1",
+			"query": "SELECT 1\n--- comments",
 			"metadata": {
 				"language": "sql"
 			},
