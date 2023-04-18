@@ -9,7 +9,7 @@ jobs:
          - name: Checkout
            uses: actions/checkout@v3
            with:
-               path: workspace_publish
+               ref: workspace_publish
 
          - name: Synapse workspace deployment
            uses: Azure/Synapse-workspace-deployment@V1.7.0
