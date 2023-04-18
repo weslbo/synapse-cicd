@@ -1,0 +1,17 @@
+{
+	"name": "SQL3",
+	"properties": {
+		"content": {
+			"query": "SELECT 3",
+			"metadata": {
+				"language": "sql"
+			},
+			"currentConnection": {
+				"databaseName": "master",
+				"poolName": "Built-in"
+			},
+			"resultLimit": 5000
+		},
+		"type": "SqlQuery"
+	}
+}
